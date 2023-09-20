@@ -1,7 +1,7 @@
 <p align="center">
-    <img src="./src/thumbnail.png" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="./src/thumbnail.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Clara - MD</h1>
+<h1 align="center">Nezha-Md</h1>
 
 
 ## Baca Sebelum Pakai!!
@@ -51,8 +51,8 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/ShirokamiRyzen/Nao-MD
-$ cd Nao-MD
+$ git clone https://github.com/TakashiIzuka/Nezha-Md
+$ cd Nezha-Md
 $ npm i
 ```
 If error try using yarn instead of npm, see [here](https://github.com/Jikarinka/Kannabotv2#if-npm-install-failed--try--using-yarn-instead-of-npm)
@@ -94,8 +94,8 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/ShirokamiRyzen/Nao-MD
-cd Nao-MD
+git clone https://github.com/TakashiIzuka/Nezha-Md
+cd Nezha-Md
 npm install
 npm update
 ```
@@ -110,8 +110,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git https://github.com/ShirokamiRyzen/Nao-MD
-cd Nao-MD
+git https://github.com/TakashiIzuka/Nezha-Md
+cd Nezha-Md
 npm install
 npm update
 ```
@@ -138,9 +138,9 @@ node .
 
 ## Thanks To
 ```bash
+Develop:Izuka
 𝐀𝐮𝐭𝐡𝐨𝐫 : Xyroinee
 Base : Nurutomo and Elaina
-Supported By Vynaa Chan
 Thanks To : 
 - Adiwajshing (Author Baileys)
 - Nurutomo (Author Wabot-Aq)
